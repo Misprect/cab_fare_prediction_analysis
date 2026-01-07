@@ -10,7 +10,6 @@ dist/
 *.egg-info/
 .vscode/
 .idea/
-results/
 
 # Datasets (ignored due to size)
 train/train_cab.csv
