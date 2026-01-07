@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.log
+.ipynb_checkpoints/
+env/
+venv/
+*.env
+build/
+dist/
+*.egg-info/
+.vscode/
+.idea/
+results/
+
+# Datasets (ignored due to size)
+train/train_cab.csv
+test_cab.csv
