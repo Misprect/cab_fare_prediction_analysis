@@ -61,3 +61,16 @@ results/pred_fare_test.csv
 This project demonstrates an end-to-end machine learning workflow including data preprocessing, feature engineering, model selection, tuning, and deployment-ready predictions.
 
 ---
+
+## Dataset
+
+The dataset files are large and are not included in this repository.
+
+Download the dataset from:
+🔗 (Kaggle / Google Drive / Internship source)
+
+After downloading, place files as:
+train/train_cab.csv
+test_cab.csv
+
+---
